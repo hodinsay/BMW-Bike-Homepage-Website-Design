@@ -1,6 +1,6 @@
-# BMW Bike Background Change Site
+# BMW Bike Website Design
 
-A website template showcasing BMW bike. The website showcase different colors of the same bike. 
+A website showcasing a BMW bike color designs. The website showcase different colors of the same bike. 
 
 **Link to the Website**: 
 
