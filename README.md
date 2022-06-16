@@ -15,3 +15,5 @@ A website template showcasing BMW bike. The website showcase different colors of
 # Other Examples: 
 
 Take a look at these couple examples that I have in my own portfolio:
+
+- PS5 Controllers Website Design: https://github.com/hodinsay/PS5-Controllers-Website-Design
